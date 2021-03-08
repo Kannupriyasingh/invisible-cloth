@@ -1,0 +1,6 @@
+first install packages by going into the terminal section
+
+use these commands
+
+>> pip install opencv-python
+>> pip install numpy
